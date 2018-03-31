@@ -1,0 +1,116 @@
+body {
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.5em;
+}
+.nav1 {
+    background-color: #444;  
+    padding: 40px;
+    font-size: 2em;
+}
+.top.bar {
+    
+}
+.box {
+    width: 75%;
+    border-style: solid;
+    border-color: black;
+    border-width: 0px;
+    text-align: center;
+    padding: 50px;
+  }
+.topname {
+  text-align: center;
+  color: #fff;
+  margin: 40px;
+  padding: 6px 12px;
+  border-style: solid;
+  border-color: silver;
+  border-width: 1px; 
+
+}
+#heading {
+  text-align: center;
+  margin-top:60px;
+  background-color: #444;
+}
+#home {
+  padding:10px;
+  text-align: right;
+  
+}
+#about {
+  padding:10px;
+  text-align: right;
+}
+#portfolio {
+  padding:10px;
+  text-align: right;
+}
+#contact {
+  padding:10px;
+  text-align: right;
+}
+.tops {
+  padding:10px;
+  text-align: right;
+}
+.social {
+  margin-top: 60px;
+  padding: 45px;
+}
+#social-row {
+    padding:45px;
+}
+#box1 {
+  background-color: #333;
+
+  padding: 20%;
+  
+  margin: 20px
+}
+.box1 {
+    background-color: blue;
+}
+#box2 {
+  background-color: teal;
+  margin: 20px
+}
+#box3 {
+  background-color: gold;
+
+  margin: 20px
+}
+
+#box4 {
+  background-color: lime;
+  width: 150px;
+  height: 150px;
+  margin: 20px
+}
+#box5 {
+  background-color: orchid;
+  width: 250px;
+  height: 150px;
+  margin: 20px
+}
+#box6 {
+  background-color: orange;
+  width: 150px;
+  height: 150px;
+  margin: 20px
+}
+.portfolio {
+  background-color: 222;
+  
+}
+div {
+    border-style: solid;
+    border-color: gray;
+    border-width: 0px;
+}
+#portrow1 {
+    padding: 100px;
+}
+#portrow2 {
+    padding: 100px;
+}
